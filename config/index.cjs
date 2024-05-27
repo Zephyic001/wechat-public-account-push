@@ -13,8 +13,6 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'c7993527efa867628bac2045884dc931',
 
-  PROVINCE: '广东',
-  CITY: '珠海',
 TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
     key: 'f075d994abc5a568185b759485bd2a44',
@@ -29,6 +27,7 @@ TIAN_API: {
     // 天行天气（展示未来N天，最多7天）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
     weather: 1,
     },
+ 
   USERS: [
     {
       // 想要发送的人的名字
@@ -37,7 +36,8 @@ TIAN_API: {
       id: 'o0Kjx6vQC9VugtNrUJ_FyNnVkXqQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '607LT4oe8Yx2EGzOUeW8AscxG-2_z0iwgne_r05c8jY',
-    
+      PROVINCE: '广东',
+      CITY: '珠海',
 
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '02-04',
