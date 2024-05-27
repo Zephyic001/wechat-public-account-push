@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o0Kjx6vQC9VugtNrUJ_FyNnVkXqQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'IBLk-wfQMOJukGK9Tn26bvcPt73DRQfBVFsrww9XoXI',
+      useTemplateId: 'DH7KpqHtR22qHRVWPFy9EYjh8BKuxC-TXZ9Kw7PyPgc',
       TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
     key: 'f075d994abc5a568185b759485bd2a44',
