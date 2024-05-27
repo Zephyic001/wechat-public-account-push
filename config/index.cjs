@@ -25,7 +25,7 @@ TIAN_API: {
     eveningGreeting: false,
   
     // 天行天气（展示未来N天，最多7天）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
-    weather: 1,
+    weather: ture,
     },
  
   USERS: [
@@ -36,7 +36,7 @@ TIAN_API: {
       id: 'o0Kjx6vQC9VugtNrUJ_FyNnVkXqQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '607LT4oe8Yx2EGzOUeW8AscxG-2_z0iwgne_r05c8jY',
-      PROVINCE: '广东',
+      PROVINCE: '山东',
       CITY: '珠海',
 
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
