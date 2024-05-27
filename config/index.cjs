@@ -25,7 +25,7 @@ TIAN_API: {
     eveningGreeting: false,
   
     // 天行天气（展示未来N天，最多7天）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
-    weather: ture,
+    weather: 1,
     },
  
   USERS: [
