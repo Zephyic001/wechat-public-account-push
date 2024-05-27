@@ -24,6 +24,21 @@ const USER_CONFIG = {
       id: 'o0Kjx6vQC9VugtNrUJ_FyNnVkXqQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'IBLk-wfQMOJukGK9Tn26bvcPt73DRQfBVFsrww9XoXI',
+      TIAN_API: {
+    // 天行API KEY，如果使用天行API则需要填写此项
+    key: 'f075d994abc5a568185b759485bd2a44',
+    
+    /** 天行API相关，需要config中配置 TIAN_API_KEY  */
+    // 早安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
+    morningGreeting: true,
+  
+    // 晚安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
+    eveningGreeting: false,
+  
+    // 天行天气（展示未来N天，最多7天）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
+    weather: 1,
+    },
+
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '02-04',
       festivals: [
