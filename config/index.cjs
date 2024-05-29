@@ -38,7 +38,7 @@ TIAN_API: {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o0Kjx6vQC9VugtNrUJ_FyNnVkXqQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '8rc_9eho9ljv-mcqRwI8JebiCfmhU_TpZiqKq9hdFDo',
+      useTemplateId: 'B8LTJiFqCUTggzi-6eeys9I26Q2gR0VwOihsT6P2XKs',
 
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '02-04',
