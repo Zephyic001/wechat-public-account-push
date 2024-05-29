@@ -12,9 +12,10 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'c7993527efa867628bac2045884dc931',
-PROVINCE: '广东省',
-CITY: '珠海市',
+  
 TIAN_API: {
+    CITY: '珠海市',
+
     // 天行API KEY，如果使用天行API则需要填写此项
     key: 'f075d994abc5a568185b759485bd2a44',
     
@@ -36,7 +37,7 @@ TIAN_API: {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o0Kjx6vQC9VugtNrUJ_FyNnVkXqQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '607LT4oe8Yx2EGzOUeW8AscxG-2_z0iwgne_r05c8jY',
+      useTemplateId: '8rc_9eho9ljv-mcqRwI8JebiCfmhU_TpZiqKq9hdFDo',
 
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '02-04',
