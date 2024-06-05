@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: 'c7993527efa867628bac2045884dc931',
   
   PROVINCE: '广东',
-  CITY: '珠海',
+  CITY: '深圳',
 
 TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
